@@ -1,0 +1,1 @@
+{"task_id": "test/0", "prompt": "def return1():\n", "suffix": "1", "canonical_solution": "    return ", "test": "def check(candidate):\n    assert candidate() == 1", "entry_point": "return1"}
